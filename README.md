@@ -1,40 +1,24 @@
-# Profile Page
+<!-- README.md -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile Page</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Profile Page</h1>
-    </header>
-    <main>
-        <section class="profile-info">
-            <h2>About Me</h2>
-            <p>Hello! I am a web developer with a passion for creating dynamic and user-friendly websites.</p>
-        </section>
-        <section class="contact-info">
-            <h2>Contact Information</h2>
-            <ul>
-                <li>Email: example@example.com</li>
-                <li>Phone: (123) 456-7890</li>
-            </ul>
-        </section>
-        <section class="social-media">
-            <h2>Social Media</h2>
-            <ul>
-                <li><a href="https://twitter.com/example">Twitter</a></li>
-                <li><a href="https://linkedin.com/in/example">LinkedIn</a></li>
-                <li><a href="https://github.com/example">GitHub</a></li>
-            </ul>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2023 Your Name. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+<h1 align="center">AI Video Generation With Web & Mobile</h1>
+
+<p align="justify">
+  I am a dedicated Full-Stack Developer with extensive experience in AI and serverless computing. I specialize in leveraging technologies like Python, Java, and AWS to build robust, scalable solutions. My passion lies in integrating AI-driven features to enhance automation and user experiences, making use of cutting-edge tools and frameworks.
+</p>
+
+<h2>⚙ Programming Languages & Frameworks 🏹</h2>
+
+**Web & Mobile**
+- Languages: JavaScript (ES6+), TypeScript, Python, Dart, HTML5, CSS3
+- Front-End: React.js, Vue.js, Angular, Next.js, TailwindCSS, Bootstrap
+- Back-End: Node.js, Express.js, Django, FastAPI
+- Mobile Development: Flutter, React Native
+
+**Video Processing & AI**
+- FFmpeg, HLS, DASH, TensorFlow, PyTorch, OpenCV, MediaPipe, OpenAI, Pinecone, Langchain
+
+**Cloud & Database**
+- Databases: PostgreSQL, Firebase, MongoDB, MySQL
+- Cloud Services: AWS (S3, EC2, CloudFront), Google Cloud, Azure
+
+<h2>Contact Information (byteboss125@gmail.com) 🤝</h2>
