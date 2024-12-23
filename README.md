@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">AI Video Generation With Web & Mobile</h1>
+<h1 align="center">Web & Mobile with AI</h1>
 
 <p align="justify">
   I am a dedicated Full-Stack Developer with extensive experience in AI and serverless computing. I specialize in leveraging technologies like Python, Java, and AWS to build robust, scalable solutions. My passion lies in integrating AI-driven features to enhance automation and user experiences, making use of cutting-edge tools and frameworks.
