@@ -1,5 +1,4 @@
 <!-- README.md -->
-redsky030511@proton.me
 <h1 align="center">Web & Mobile with AI</h1>
 
 <p align="justify">
@@ -22,3 +21,7 @@ redsky030511@proton.me
 - Cloud Services: AWS (S3, EC2, CloudFront), Google Cloud, Azure
 
 <h2>Contact Information (byteboss125@gmail.com) 🤝</h2>
+
+redsky030511@proton.me
+17f82-2cce8
+*0x0DAef76310b4FeC48960866c26Be407F9F88B57d*
