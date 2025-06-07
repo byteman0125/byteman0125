@@ -13,9 +13,6 @@
 - Back-End: Node.js, Express.js, Django, FastAPI
 - Mobile Development: Flutter, React Native
 
-**Video Processing & AI**
-- FFmpeg, HLS, DASH, TensorFlow, PyTorch, OpenCV, MediaPipe, OpenAI, Pinecone, Langchain
-
 **Cloud & Database**
 - Databases: PostgreSQL, Firebase, MongoDB, MySQL
 - Cloud Services: AWS (S3, EC2, CloudFront), Google Cloud, Azure
